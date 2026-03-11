@@ -145,7 +145,7 @@ A needle of length $L$ is thrown onto a floor with parallel lines spaced $d$ apa
 The outcome of each throw is determined by two parameters:
 - $X \in \left[0, \dfrac{d}{2}\right]$ — distance from the needle's **center** to the **nearest line** (using symmetry).
 - $\theta \in \left[0, \dfrac{\pi}{2}\right]$ — **angle** between the needle and the lines (using symmetry).
-- $\Omega = \left\{(x, \theta) : x \in \left[0, \frac{d}{2}\right],\ \theta \in \left[0, \frac{\pi}{2}\right]\right\}$
+- $\Omega = \{(x, \theta) : x \in \left[0, \frac{d}{2}\right],\ \theta \in \left[0, \frac{\pi}{2}\right]\}$
 
 ### 2. Parameters determining the outcome
 
